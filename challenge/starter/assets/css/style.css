@@ -86,17 +86,8 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+/* consolidate benefit bit */
+.benefit-lead .benefit-brand .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -152,7 +143,7 @@ p {
     color: #ffffff;
 }
 
-.social-media-marketing {
+ .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
